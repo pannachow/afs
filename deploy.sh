@@ -19,6 +19,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:pannachow/afs.git master:gh-pages
+git push -f git@github.com:pannachow/transfers.git master:gh-pages
 
 cd -
